@@ -1,0 +1,226 @@
+2.6960 	WARNING 	Movie2 stim could not be imported and won't be available
+16.7252 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x04EC0468>, name='window1', pos=[0, 0], screen=0, size=array([3440, 1440]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+16.7252 	EXP 	window1: recordFrameIntervals = False
+16.8580 	EXP 	window1: recordFrameIntervals = True
+17.0049 	EXP 	window1: recordFrameIntervals = False
+17.2755 	EXP 	Created instructions = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='instructions', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 1.,  1.,  1.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+17.2783 	EXP 	Created fixation = GratingStim(autoDraw=False, autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, interpolate=True, mask=None, maskParams=None, name='fixation', opacity=1.0, ori=0.0, phase=array([ 0.,  0.]), pos=array([ 0.,  0.]), rgbPedestal=array([ 0.,  0.,  0.]), sf=array([ 1.,  1.]), size=array([ 3.,  3.]), tex=None, texRes=128, units='pix', win=Window(...))
+17.2826 	EXP 	Created gabor = GratingStim(autoDraw=False, autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, interpolate=True, mask='gauss', maskParams=None, name='gabor', opacity=1.0, ori=10.0, phase=array([ 1.,  1.]), pos=array([ 0.,  0.]), rgbPedestal=array([ 0.,  0.,  0.]), sf=array([ 0.1,  0.1]), size=array([ 128.,  128.]), tex='sin', texRes=128, units='pix', win=Window(...))
+17.2988 	EXP 	instructions: autoDraw = True
+62.5332 	DATA 	Keypress: up
+62.5464 	EXP 	instructions: autoDraw = False
+62.5464 	EXP 	gabor: color = '[ 0.5  0.5  0.5] (rgb)'
+62.5464 	EXP 	fixation: autoDraw = True
+63.0536 	EXP 	gabor: autoDraw = True
+63.5474 	EXP 	fixation: autoDraw = False
+63.5474 	EXP 	gabor: autoDraw = False
+63.7611 	DATA 	Keypress: up
+63.7743 	EXP 	fixation: autoDraw = False
+63.7743 	EXP 	gabor: autoDraw = False
+63.7743 	EXP 	gabor: color = '[ 0.07924466  0.07924466  0.07924466] (rgb)'
+63.7743 	EXP 	fixation: autoDraw = True
+64.2815 	EXP 	gabor: autoDraw = True
+64.4286 	DATA 	Keypress: up
+64.4417 	EXP 	fixation: autoDraw = False
+64.4417 	EXP 	gabor: autoDraw = False
+64.4417 	EXP 	gabor: color = '[ 0.01255943  0.01255943  0.01255943] (rgb)'
+64.4417 	EXP 	fixation: autoDraw = True
+64.9489 	EXP 	gabor: autoDraw = True
+65.4427 	EXP 	fixation: autoDraw = False
+65.4427 	EXP 	gabor: autoDraw = False
+65.9768 	DATA 	Keypress: up
+65.9900 	EXP 	fixation: autoDraw = False
+65.9900 	EXP 	gabor: autoDraw = False
+65.9900 	EXP 	gabor: color = '[ 0.00199054  0.00199054  0.00199054] (rgb)'
+65.9900 	EXP 	fixation: autoDraw = True
+66.4972 	EXP 	gabor: autoDraw = True
+66.9910 	EXP 	fixation: autoDraw = False
+66.9910 	EXP 	gabor: autoDraw = False
+67.9789 	DATA 	Keypress: down
+67.9921 	EXP 	fixation: autoDraw = False
+67.9921 	EXP 	gabor: autoDraw = False
+67.9921 	EXP 	gabor: color = '[ 0.01255943  0.01255943  0.01255943] (rgb)'
+67.9921 	EXP 	fixation: autoDraw = True
+68.4993 	EXP 	gabor: autoDraw = True
+68.9800 	DATA 	Keypress: up
+68.9931 	EXP 	fixation: autoDraw = False
+68.9931 	EXP 	gabor: autoDraw = False
+68.9931 	EXP 	fixation: autoDraw = False
+68.9931 	EXP 	gabor: autoDraw = False
+68.9931 	EXP 	gabor: color = '[ 0.01255943  0.01255943  0.01255943] (rgb)'
+68.9931 	EXP 	fixation: autoDraw = True
+69.5003 	EXP 	gabor: autoDraw = True
+69.9942 	EXP 	fixation: autoDraw = False
+69.9942 	EXP 	gabor: autoDraw = False
+70.0077 	DATA 	Keypress: up
+70.0209 	EXP 	fixation: autoDraw = False
+70.0209 	EXP 	gabor: autoDraw = False
+70.0209 	EXP 	gabor: color = '[ 0.01255943  0.01255943  0.01255943] (rgb)'
+70.0209 	EXP 	fixation: autoDraw = True
+70.5281 	EXP 	gabor: autoDraw = True
+71.0219 	EXP 	fixation: autoDraw = False
+71.0219 	EXP 	gabor: autoDraw = False
+71.0755 	DATA 	Keypress: up
+71.0887 	EXP 	fixation: autoDraw = False
+71.0887 	EXP 	gabor: autoDraw = False
+71.0887 	EXP 	gabor: color = '[ 0.005  0.005  0.005] (rgb)'
+71.0887 	EXP 	fixation: autoDraw = True
+71.5959 	EXP 	gabor: autoDraw = True
+72.0897 	EXP 	fixation: autoDraw = False
+72.0897 	EXP 	gabor: autoDraw = False
+72.2500 	DATA 	Keypress: up
+72.2632 	EXP 	fixation: autoDraw = False
+72.2632 	EXP 	gabor: autoDraw = False
+72.2632 	EXP 	gabor: color = '[ 0.005  0.005  0.005] (rgb)'
+72.2632 	EXP 	fixation: autoDraw = True
+72.7705 	EXP 	gabor: autoDraw = True
+73.2643 	EXP 	fixation: autoDraw = False
+73.2643 	EXP 	gabor: autoDraw = False
+73.7449 	DATA 	Keypress: up
+73.7581 	EXP 	fixation: autoDraw = False
+73.7581 	EXP 	gabor: autoDraw = False
+73.7581 	EXP 	gabor: color = '[ 0.005  0.005  0.005] (rgb)'
+73.7581 	EXP 	fixation: autoDraw = True
+74.2654 	EXP 	gabor: autoDraw = True
+74.7592 	EXP 	fixation: autoDraw = False
+74.7592 	EXP 	gabor: autoDraw = False
+74.9729 	DATA 	Keypress: up
+74.9861 	EXP 	fixation: autoDraw = False
+74.9861 	EXP 	gabor: autoDraw = False
+74.9861 	EXP 	gabor: color = '[ 0.00199054  0.00199054  0.00199054] (rgb)'
+74.9861 	EXP 	fixation: autoDraw = True
+75.4933 	EXP 	gabor: autoDraw = True
+75.9872 	EXP 	fixation: autoDraw = False
+75.9872 	EXP 	gabor: autoDraw = False
+77.0551 	DATA 	Keypress: down
+77.0683 	EXP 	fixation: autoDraw = False
+77.0683 	EXP 	gabor: autoDraw = False
+77.0683 	EXP 	gabor: color = '[ 0.005  0.005  0.005] (rgb)'
+77.0683 	EXP 	fixation: autoDraw = True
+77.5755 	EXP 	gabor: autoDraw = True
+78.0693 	EXP 	fixation: autoDraw = False
+78.0693 	EXP 	gabor: autoDraw = False
+78.2297 	DATA 	Keypress: up
+78.2429 	EXP 	fixation: autoDraw = False
+78.2429 	EXP 	gabor: autoDraw = False
+78.2429 	EXP 	gabor: color = '[ 0.005  0.005  0.005] (rgb)'
+78.2429 	EXP 	fixation: autoDraw = True
+78.7501 	EXP 	gabor: autoDraw = True
+79.2439 	EXP 	fixation: autoDraw = False
+79.2439 	EXP 	gabor: autoDraw = False
+79.4042 	DATA 	Keypress: up
+79.4174 	EXP 	fixation: autoDraw = False
+79.4174 	EXP 	gabor: autoDraw = False
+79.4174 	EXP 	gabor: color = '[ 0.005  0.005  0.005] (rgb)'
+79.4174 	EXP 	fixation: autoDraw = True
+79.9247 	EXP 	gabor: autoDraw = True
+80.4185 	EXP 	fixation: autoDraw = False
+80.4185 	EXP 	gabor: autoDraw = False
+80.5254 	DATA 	Keypress: up
+80.5386 	EXP 	fixation: autoDraw = False
+80.5386 	EXP 	gabor: autoDraw = False
+80.5386 	EXP 	gabor: color = '[ 0.00315479  0.00315479  0.00315479] (rgb)'
+80.5386 	EXP 	fixation: autoDraw = True
+81.0458 	EXP 	gabor: autoDraw = True
+81.5397 	EXP 	fixation: autoDraw = False
+81.5397 	EXP 	gabor: autoDraw = False
+81.7000 	DATA 	Keypress: up
+81.7132 	EXP 	fixation: autoDraw = False
+81.7132 	EXP 	gabor: autoDraw = False
+81.7132 	EXP 	gabor: color = '[ 0.00315479  0.00315479  0.00315479] (rgb)'
+81.7132 	EXP 	fixation: autoDraw = True
+82.2204 	EXP 	gabor: autoDraw = True
+82.7142 	EXP 	fixation: autoDraw = False
+82.7142 	EXP 	gabor: autoDraw = False
+83.2349 	DATA 	Keypress: up
+83.2481 	EXP 	fixation: autoDraw = False
+83.2481 	EXP 	gabor: autoDraw = False
+83.2481 	EXP 	gabor: color = '[ 0.00315479  0.00315479  0.00315479] (rgb)'
+83.2481 	EXP 	fixation: autoDraw = True
+83.7554 	EXP 	gabor: autoDraw = True
+84.2492 	EXP 	fixation: autoDraw = False
+84.2492 	EXP 	gabor: autoDraw = False
+85.7441 	EXP 	fixation: autoDraw = False
+85.7441 	EXP 	gabor: autoDraw = False
+85.7441 	EXP 	gabor: color = '[ 0.005  0.005  0.005] (rgb)'
+85.7441 	EXP 	fixation: autoDraw = True
+86.2513 	EXP 	gabor: autoDraw = True
+86.7451 	EXP 	fixation: autoDraw = False
+86.7451 	EXP 	gabor: autoDraw = False
+86.8921 	DATA 	Keypress: up
+86.9053 	EXP 	fixation: autoDraw = False
+86.9053 	EXP 	gabor: autoDraw = False
+86.9053 	EXP 	gabor: color = '[ 0.005  0.005  0.005] (rgb)'
+86.9053 	EXP 	fixation: autoDraw = True
+87.4125 	EXP 	gabor: autoDraw = True
+87.8531 	DATA 	Keypress: up
+87.8663 	EXP 	fixation: autoDraw = False
+87.8663 	EXP 	gabor: autoDraw = False
+87.8663 	EXP 	gabor: color = '[ 0.005  0.005  0.005] (rgb)'
+87.8663 	EXP 	fixation: autoDraw = True
+88.3735 	EXP 	gabor: autoDraw = True
+88.7607 	DATA 	Keypress: up
+88.7740 	EXP 	fixation: autoDraw = False
+88.7740 	EXP 	gabor: autoDraw = False
+88.7740 	EXP 	gabor: color = '[ 0.00315479  0.00315479  0.00315479] (rgb)'
+88.7740 	EXP 	fixation: autoDraw = True
+89.2812 	EXP 	gabor: autoDraw = True
+89.6685 	DATA 	Keypress: up
+89.6816 	EXP 	fixation: autoDraw = False
+89.6816 	EXP 	gabor: autoDraw = False
+89.6816 	EXP 	gabor: color = '[ 0.00315479  0.00315479  0.00315479] (rgb)'
+89.6816 	EXP 	fixation: autoDraw = True
+90.1888 	EXP 	gabor: autoDraw = True
+90.5226 	DATA 	Keypress: up
+90.5358 	EXP 	fixation: autoDraw = False
+90.5358 	EXP 	gabor: autoDraw = False
+90.5358 	EXP 	gabor: color = '[ 0.00315479  0.00315479  0.00315479] (rgb)'
+90.5358 	EXP 	fixation: autoDraw = True
+91.0430 	EXP 	gabor: autoDraw = True
+91.4169 	DATA 	Keypress: up
+91.4301 	EXP 	fixation: autoDraw = False
+91.4301 	EXP 	gabor: autoDraw = False
+91.4301 	EXP 	gabor: color = '[ 0.00199054  0.00199054  0.00199054] (rgb)'
+91.4301 	EXP 	fixation: autoDraw = True
+91.9373 	EXP 	gabor: autoDraw = True
+92.2044 	DATA 	Keypress: up
+92.2175 	EXP 	fixation: autoDraw = False
+92.2175 	EXP 	gabor: autoDraw = False
+92.2175 	EXP 	gabor: color = '[ 0.00199054  0.00199054  0.00199054] (rgb)'
+92.2175 	EXP 	fixation: autoDraw = True
+92.7248 	EXP 	gabor: autoDraw = True
+93.0853 	DATA 	Keypress: up
+93.0985 	EXP 	fixation: autoDraw = False
+93.0985 	EXP 	gabor: autoDraw = False
+93.0985 	EXP 	gabor: color = '[ 0.00199054  0.00199054  0.00199054] (rgb)'
+93.0985 	EXP 	fixation: autoDraw = True
+93.6057 	EXP 	gabor: autoDraw = True
+93.9396 	DATA 	Keypress: up
+93.9527 	EXP 	fixation: autoDraw = False
+93.9527 	EXP 	gabor: autoDraw = False
+93.9527 	EXP 	gabor: color = '[ 0.00125594  0.00125594  0.00125594] (rgb)'
+93.9527 	EXP 	fixation: autoDraw = True
+94.4599 	EXP 	gabor: autoDraw = True
+94.8338 	DATA 	Keypress: up
+94.8470 	EXP 	fixation: autoDraw = False
+94.8470 	EXP 	gabor: autoDraw = False
+94.8470 	EXP 	gabor: color = '[ 0.00125594  0.00125594  0.00125594] (rgb)'
+94.8470 	EXP 	fixation: autoDraw = True
+95.3542 	EXP 	gabor: autoDraw = True
+95.8481 	EXP 	fixation: autoDraw = False
+95.8481 	EXP 	gabor: autoDraw = False
+96.1285 	DATA 	Keypress: up
+96.1417 	EXP 	fixation: autoDraw = False
+96.1417 	EXP 	gabor: autoDraw = False
+96.1417 	EXP 	gabor: color = '[ 0.00125594  0.00125594  0.00125594] (rgb)'
+96.1417 	EXP 	fixation: autoDraw = True
+96.6489 	EXP 	gabor: autoDraw = True
+97.1162 	DATA 	Keypress: up
+97.1294 	EXP 	fixation: autoDraw = False
+97.1294 	EXP 	gabor: autoDraw = False
+97.1294 	EXP 	gabor: color = '[ 0.00079245  0.00079245  0.00079245] (rgb)'
+97.1294 	EXP 	fixation: autoDraw = True
+97.6366 	EXP 	gabor: autoDraw = True
+98.1304 	EXP 	fixation: autoDraw = False
+98.1304 	EXP 	gabor: autoDraw = False
+98.3709 	DATA 	Keypress: up
